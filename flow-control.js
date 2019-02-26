@@ -4,7 +4,7 @@ function basicTeenager(age) {
       return "You are a teenager!";
       break;
     default:
-      
+
   }
 }
 
@@ -14,7 +14,7 @@ function teenager(age) {
       return "You are a teenager!";
       break;
     default:
-      
+
   }
 }
 
