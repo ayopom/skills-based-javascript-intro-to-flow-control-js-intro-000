@@ -8,7 +8,7 @@ function basicTeenager(age) {
 
 function teenager(age) {
   switch (age) {
-    case (age < 13 || age > 19):
+    case (age > 12 || age < 20):
       return "You are a teenager!";
       break;
     default:
